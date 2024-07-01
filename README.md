@@ -1,2 +1,2 @@
 # go-webserver-basic
-This is for beginner1 
+This is for beginner2 
